@@ -22,7 +22,7 @@ main.dark, header.dark {
 }
 
 main {
-    padding: 34px;
+    padding: 30px;
     min-height: calc(100vh - 73px);
 }
 
